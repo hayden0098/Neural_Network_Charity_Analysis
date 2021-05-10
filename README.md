@@ -36,7 +36,7 @@ Compiling, Training, and Evaluating the Model
     The output layer is made of unique neuron with sigmoid activation. We use ReLu for hidden layer becuase its simplifying the output, 
     we use Sigmod on output layer due to it transforms the output to a range between -1 and 1.  
     
-    ![deep_leaning_model_summary]()
+   ![deep_leaning_model_summary](https://github.com/hayden0098/Neural_Network_Charity_Analysis/blob/main/screenshot/deep_leaning_model_summary.jpg)
     
   2. Were you able to achieve the target model performance?
 
